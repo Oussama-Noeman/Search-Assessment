@@ -6,5 +6,5 @@
 
 ## Note
 if you need to add more articles and test it => 
-  - Go the data/data.ts
+  - Go to data/data.ts file
   - Add Article object to the array
